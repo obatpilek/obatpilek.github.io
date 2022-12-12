@@ -5,9 +5,9 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
-      "main_ads_native"           : "YOUR_PLACEMENT_ID",
+      "main_ads_banner"           : "ca-app-pub-9017679452821489/9570199880",
+      "main_ads_intertitial"      : "ca-app-pub-9017679452821489/5533632399",
+      "main_ads_native"           : "ca-app-pub-9017679452821489/4384202254",
 
       "open_ads"                  : "YOUR_PLACEMENT_ID",
 
