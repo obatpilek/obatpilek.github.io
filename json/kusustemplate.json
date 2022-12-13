@@ -5,7 +5,7 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "YOUR_PLACEMENT_IDx",
+      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
       "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
       "main_ads_native"           : "YOUR_PLACEMENT_ID",
 
